@@ -1,0 +1,24 @@
+.header-cool {
+    height: 70px !important;
+    margin: 0 !important;
+    border: 0 !important;
+    box-shadow: 0 3px 10px rgba( 90, 97, 105, .12) !important;
+}
+
+.header-cool input {
+    border: 0 !important;
+}
+
+.badge-notification-cool {
+    width: 14.4px;
+    height: 14.4px;
+    background-color: #C4183C;
+    font-size: 9.26pt;
+    border-radius: 7.2px;
+    color: #FFFFFF;
+    line-height: 14.4px;
+    text-align: center;
+    position: relative;
+    top: 35px;
+    left: 39px;
+}

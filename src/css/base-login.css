@@ -1,0 +1,108 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+  font-family: 'Helvetica', sans-serif !important;
+  height: 100vh;
+}
+.containerMain {
+  height: 100vh;
+}
+
+.welcome {
+  font-weight: normal !important;
+
+  color: #25265E;
+  font-size: 24px;
+  line-height: 26px;
+}
+.subwelcome {
+  line-height: 24px;
+  width: 235px;
+  padding-bottom: 39px;
+}
+.login-container{
+  display: flex;
+  width: 321px;
+  height: auto;
+  margin: auto;
+  box-sizing: border-box;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.login-container .login-form{
+  width: 100%;
+  padding: 50px 5px;
+  color: #787993;
+  font-size: 16px;
+}
+.link-to {
+  color: #007bff !important;
+}
+
+.btn-login-cool {
+  border-radius: 8px;
+  width: 100%;
+  height: 48px;
+  background-color: #007bff !important;
+  box-shadow: 0.51 #007bff inset !important;
+  color: #fff !important;
+  font-weight: normal !important;
+  font-size: 15px !important;
+  margin-bottom: 59px !important;
+}
+.new-account {
+  font-size: 16px !important;
+  line-height: 19px !important;
+  width: 100%;
+  text-align: center !important;
+}
+.title-form {
+  font-weight: normal !important;
+  line-height: 40px !important;
+  font-size: 32.91px !important;
+  color: #3d5170 !important;
+  margin-bottom: 86px !important;
+}
+.title-form .img-form {
+  width: 41.14px !important;
+  height: 41.14px !important;
+}
+.login-container .login-form input, .btn-login{
+  line-height: 28px;
+  height: 28px;
+  margin-bottom: 40px; 
+}
+.login-container .login-form input{
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #979797;
+  width: 100%;
+  padding: 0;
+}
+.login-container .login-form input:focus {
+  outline:0;
+  border-bottom: 1px solid #007bff;
+}
+
+
+@media screen and (max-width: 570px){
+  body {
+    width: 100vw;
+    height: 100vh;
+  }
+  .login-container {
+    width: 100vw;
+    height: 100vh;
+    top: 50vh;
+  }
+  .login-container .login-form{
+    width: 100vw;
+  }
+  .login-container .login-background{
+    display: none;
+  }
+}

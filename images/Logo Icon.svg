@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login" transform="translate(-556.000000, -160.000000)" fill="#007BFF">
+            <g id="Logo" transform="translate(556.000000, 157.000000)">
+                <path d="M22.5599669,34.2668232 L18.585376,22.4267348 L25.266036,18.4513153 L28.8180626,23.5262308 L22.5599669,34.2668232 Z M19.9632673,36.6265553 L13.02824,24.8709798 L16.961403,23.5179452 L20.8937375,35.0191535 L19.9632673,36.6265553 Z M20.8092246,10.6877304 L24.5302769,17.073424 L12.5211627,23.458289 L20.8092246,10.6877304 Z M20.5714286,3.08571429 C9.2102465,3.08571429 0,12.2959608 0,23.6571429 C0,35.0183249 9.2102465,44.2285714 20.5714286,44.2285714 C31.9317821,44.2285714 41.1420286,35.0183249 41.1420286,23.6571429 C41.1420286,12.2959608 31.9317821,3.08571429 20.5714286,3.08571429 L20.5714286,3.08571429 Z" id="Logo-Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

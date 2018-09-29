@@ -1,0 +1,116 @@
+.rbc-calendar {
+  color: #3d557f;
+}
+.rbc-toolbar {
+  /* margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px; */
+  margin: 0;
+  padding: 10px;
+}
+.rbc-toolbar-label {
+  text-transform: capitalize;
+}
+.rbc-header {
+  padding: 5px 0;
+  background-color: #e9edf5;
+}
+.rbc-header span{
+  text-transform: capitalize;
+  padding: 5px 3px;
+  font-size: 1.2em;
+}
+.rbc-row.rbc-month-header .rbc-header{
+  border: none;
+}
+.rbc-month-row .rbc-row-content .rbc-row .rbc-date-cell {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+.rbc-month-row .rbc-row-content .rbc-row .rbc-date-cell.rbc-current {
+  font-size: 1.4em;
+  font-weight: bold;
+  color:#0081ff;
+}
+.rbc-day-bg + .rbc-day-bg {
+  border-left: 1px solid #eee;
+  border: none;
+}
+.rbc-month-row + .rbc-month-row {
+  border-top: 1px solid #eee;
+}
+.rbc-off-range-bg {
+  background: #eee;
+}
+
+.ui.inline.dropdown.dropdown-calendar > .text{
+  font-size: 1.2em;
+}
+
+.ui.checkbox.calendar-check label {
+  color: #3d557f !important;
+  padding: 10px;
+  padding-left: 37px;
+}
+
+.ui.checkbox.calendar-check input:checked ~ .box:before,
+.ui.checkbox.calendar-check input:checked ~ label:before {
+  background-color: #41cb60;
+  border: none;
+}
+.ui.checkbox.calendar-check input:checked ~ .box:after,
+.ui.checkbox.calendar-check input:checked ~ label:after {
+  color: white;
+  font-size: 0.8em;
+  top: 10px;
+  left: 10px;
+}
+.ui.checkbox.calendar-check .box:before,
+.ui.checkbox.calendar-check label:before {
+  top: 10px;
+  left: 10px;
+}
+.ui.checkbox.calendar-check {
+  /* padding: 10px; */
+  width: 100%;
+}
+.ui.card.card-filter {
+  margin: 10px 0em;
+  padding: 0;
+}
+.ui.card.card-filter .content {
+  /* padding: 10px; */
+  font-weight: bold;
+  /* margin: 10px; */
+  padding: 0;
+  margin: 0;
+}
+
+.border-state{
+  border-left: 10px solid !important;
+}
+.border-critica{
+  border-color: red !important;
+}
+.border-baja{
+  border-color: green !important;
+}
+.border-alta{
+  border-color: orange !important;
+}
+.border-media{
+  border-color: #707709 !important;
+}
+.critica {
+  background-color: red !important;
+}
+.baja {
+  background-color: green !important;
+}
+
+.alta {
+  background-color: orange !important;
+}
+.media {
+  background-color: #707709 !important;
+}

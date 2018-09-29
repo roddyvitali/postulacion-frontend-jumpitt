@@ -1,0 +1,68 @@
+.icon-cool {
+    cursor: pointer;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon-header-cool {
+    width: 71.9px;
+    height: 69.43px;
+    box-shadow:  1px 0 0 #CACEDB, 
+    -1px 0 0 #CACEDB;
+}
+
+.icon-notification-cool {
+    background-image: url("/images/ic-Notifications.png");
+}
+.icon-menu-cool {
+    width: 16.46px;
+    height: 16.46px;
+    margin-right: 10px;
+}
+.icon-menu1 {
+    background-image: url("/images/Blog Icon.png");
+}
+.icon-menu2 {
+    background-image: url("/images/Blog Posts Icon.png");
+}
+.icon-menu3 {
+    background-image: url("/images/Add New Post Icon.png");
+}
+.icon-menu4 {
+    background-image: url("/images/Overview (Components) Icon.png");
+}
+.icon-menu5 {
+    background-image: url("/images/Forms & Components Icon.png");
+}
+.icon-menu6 {
+    background-image: url("/images/Person Icon.png");
+}
+.icon-menu7 {
+    background-image: url("/images/Error Icon.png");
+}
+
+.icon-dashboard-cool {
+    width: 10.29px;
+    height: 10.29px;
+    position: absolute;
+    right: 35px;
+}
+.icon-dashboard-options {
+    background-image: url("/images/drag_handle_icon.png");
+}
+
+.icon-button-cool {
+    width: 16.46px;
+    height: 16.46px;
+    margin-right: 2px;
+}
+.icon-approve {
+    background-image: url("/images/Check Icon.png");
+}
+.icon-reject {
+    background-image: url("/images/Reject Icon.png");
+}
+.icon-edit {
+    background-image: url("/images/Edit Icon.png");
+}
+

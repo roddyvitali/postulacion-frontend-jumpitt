@@ -1,0 +1,23 @@
+.pushable.pusher{
+  overflow-y: hidden !important;
+}
+.containerApp {
+  height: 100vh;
+  display: flex
+}
+
+@media only screen and (max-width: 767px) {
+  .ui.container.containerMain{
+    margin: 0 !important;
+  }
+  .ui.pushable.containerPushable{
+    width: calc(100% - 70px) !important;
+    margin: 0 !important;
+  }
+
+  .item.only_computer{
+    display:none !important;
+  }
+}
+
+
